@@ -3,10 +3,18 @@
 #  @sushensanthush/vibe-check
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0.0-CB3837.svg" alt="Version">
-  <img src="https://img.shields.io/badge/Language-TypeScript-blue.svg" alt="Language">
-  <img src="https://img.shields.io/badge/Bundler-Vite-646CFF.svg" alt="Bundler">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
+  <a href="https://www.npmjs.com/package/@sushensanthush/vibe-check">
+    <img src="https://img.shields.io/badge/Version-1.0.0-CB3837.svg" alt="Version">
+  </a>
+  <a href="https://github.com/sushensanthush/vibe-check">
+    <img src="https://img.shields.io/badge/Language-TypeScript-blue.svg" alt="Language">
+  </a>
+  <a href="https://bundlephobia.com/package/@sushensanthush/vibe-check">
+    <img src="https://img.shields.io/badge/Size-Minimal-44CC11.svg" alt="Build Size">
+  </a>
+  <a href="https://github.com/sushensanthush/vibe-check/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
+  </a>
 </p>
 **A high-performance, zero-dependency network latency monitor for modern web apps.**
 
