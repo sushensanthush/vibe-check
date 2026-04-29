@@ -2,11 +2,12 @@
 
 #  @sushensanthush/vibe-check
 
-[![NPM Version](https://img.shields.io/npm/v/@sushensanthush/vibe-check?style=for-the-badge&color=CB3837&logo=npm)](https://www.npmjs.com/package/@sushensanthush/vibe-check)
-[![Build Size](https://img.shields.io/bundlephobia/min/@sushensanthush/vibe-check?style=for-the-badge&color=44CC11&logo=webassembly)](https://bundlephobia.com/package/@sushensanthush/vibe-check)
-[![License](https://img.shields.io/github/license/sushensanthush/vibe-check?style=for-the-badge&color=007EC6&logo=github)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/sushensanthush/vibe-check?style=for-the-badge&color=FFD700&logo=githubstars)](https://github.com/sushensanthush/vibe-check/stargazers)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0.0-CB3837.svg" alt="Version">
+  <img src="https://img.shields.io/badge/Language-TypeScript-blue.svg" alt="Language">
+  <img src="https://img.shields.io/badge/Bundler-Vite-646CFF.svg" alt="Bundler">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
+</p>
 **A high-performance, zero-dependency network latency monitor for modern web apps.**
 
 [Explore Docs](https://github.com/sushensanthush/vibe-check#readme) · [Report Bug](https://github.com/sushensanthush/vibe-check/issues) · [Request Feature](https://github.com/sushensanthush/vibe-check/issues)
@@ -17,11 +18,12 @@
 
 ###  Built With
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Platform-Web-brightgreen.svg" alt="Platform">
+  <img src="https://img.shields.io/badge/Environment-NodeJS-6DA55F.svg" alt="Environment">
+  <img src="https://img.shields.io/badge/Architecture-Modular-blue.svg" alt="Architecture">
+  <img src="https://img.shields.io/badge/Package_Manager-NPM-red.svg" alt="Package Manager">
+</p>
 ##  Features
 
 - **Real-time Monitoring**: Tracks round-trip time (latency) in milliseconds accurately.
