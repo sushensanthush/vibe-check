@@ -87,3 +87,11 @@ rm -r vibe-test
 
 # In vibe-check
 npm unlink
+```
+## 📄 License
+
+This project is licensed under the **MIT License**. 
+
+The MIT License is a permissive license that is short and to the point. It lets people do anything they want with your code as long as they provide attribution back to you and don’t hold you liable.
+
+See the [LICENSE](LICENSE) file for the full text.
