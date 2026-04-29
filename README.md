@@ -27,7 +27,7 @@
 - **Real-time Monitoring**: Tracks round-trip time (latency) in milliseconds accurately.
 - **Smart Status Categorization**: 
   - 🟢 `excellent`: Fast and reliable connection.
-  - 🟡 `stuttering`: High latency or jitter—perfect for triggering "Slow Connection" UI warnings.
+  - 🟡 `stuttering`: High latency or jitter is perfect for triggering "Slow Connection" UI warnings.
   - 🔴 `offline`: No connection detected or server unreachable.
 - **Zero Dependencies**: Keeps your production bundle size ultra-small.
 - **Modern Stack**: Fully typed with TypeScript for the best developer experience.
