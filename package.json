@@ -1,0 +1,42 @@
+{
+  "name": "@sushensanthush/vibe-check",
+  "version": "1.0.0",
+  "description": "A lightweight, intelligent network monitor that tracks latency and connection quality (excellent, stuttering, or offline).",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/vibe-check.umd.js",
+  "module": "./dist/vibe-check.es.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/vibe-check.es.js",
+      "require": "./dist/vibe-check.umd.js"
+    }
+  },
+  "scripts": {
+    "build": "vite build"
+  },
+  "keywords": [
+    "network",
+    "latency",
+    "connectivity",
+    "vibe-check",
+    "offline-first",
+    "ux",
+    "performance"
+  ],
+  "author": "sushensanthush",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "vite": "^5.0.0",
+    "vite-plugin-dts": "^3.0.0"
+  },
+  "dependencies": {
+    "@sushensanthush/vibe-check": "^1.0.0"
+  }
+}
